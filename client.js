@@ -21,7 +21,6 @@ var url =  argv.url;
 var client = restify.createJsonClient({
   url: url,
   accept: 'application/json',
-  requestTimeout: 30,
   version: '*'
 });
 
