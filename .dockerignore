@@ -1,0 +1,4 @@
+#ignore user keys
+Dockerfile
+*/Dockerfile
+*/node_modules
