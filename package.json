@@ -1,0 +1,16 @@
+{
+  "name": "echoserver",
+  "version": "0.0.1",
+  "description": "Just echo nothing of use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawn cicoria",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^4.1.1",
+    "yargs": "^5.0.0"
+  }
+}
